@@ -1,0 +1,48 @@
+img.main {
+	width: 100%;
+	height: 100%; }
+nav {
+	background-color: #000;
+	margin: 0;
+	height: 40px;
+	text-align: center; }
+ul.star {
+	margin: 0;
+	text-align: center;
+	word-spacing: 65px; }
+li.forwards {
+	list-style-type: none;
+	display: inline-block; }
+a.attackers {
+	text-decoration: none;
+	color: #fff;
+	font-size: 15px;
+	vertical-align: top; }
+li.himgs {
+	list-style-type: none;
+	display: inline-block;
+	padding: 5px; }
+img.wingers {
+	width: 20px; }
+header {
+	background-image: url("img/iphone2.png");
+	margin: auto; }
+p.mainslogan {
+	background-image: url("img/made_by_apple.jpg"); }
+table {
+	margin: auto; }
+img.protectors {
+	float: left;
+	width: 25%; }
+img.defender {
+	float: right;
+	width: 25%; }
+ul.fullback {
+	list-style-type: none; }
+ul.fullback li {
+	font-size: 10px;
+	line-height: 20px; }
+div.finishers {
+	width: 70%;
+	margin: auto;
+	font-size: 10px; }
